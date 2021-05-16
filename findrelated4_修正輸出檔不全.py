@@ -24,6 +24,9 @@ import jieba
 from ckiptagger import WS
 import TermFreq as cut
 
+#for test
+import whatever
+
 
 #%% 製作計數表
 words_antiCH = ['送中', '香港', '黑警', '香港警察', '暴徒', '中共', '香港民運', 
